@@ -22,7 +22,7 @@ MongoDB account (for MongoDB Atlas)
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/bookstore.git
+git clone https://github.com/Vipin-05/bookstore.git
 Navigate to the project directory:
 
 cd bookstore
