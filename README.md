@@ -45,7 +45,7 @@ cd frontend
 npm start
 
 Access the application:
-Open your browser and navigate to http://localhost:1000.
+Open your browser and navigate to http://localhost:4173.
 
 Usage
 Register/Login: Use your Gmail account to register and log in.
@@ -69,4 +69,4 @@ Acknowledgements
 Special thanks to all contributors and the open-source community.
 
 Contact
-For any inquiries, please contact [vrchaudhari07@gmail.com].
+For any inquiries, please contact [vrchaudhari07@gmail.com , utkarshgupta0509@gmail.com].
